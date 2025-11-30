@@ -19,8 +19,8 @@ main:
 
 
 
-  - title: "HALO Lab"
-    url: "/#-halo-lab"
+  # - title: "HALO Lab"
+  #   url: "/#-halo-lab"
 
 
   - title: "Invited Talks"
@@ -29,5 +29,5 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Miscellaneous"
-    url: "/#-miscellaneous"
+  # - title: "Miscellaneous"
+  #   url: "/#-miscellaneous"

@@ -10,10 +10,10 @@
 
 <!-- # 👥 HALO Lab
 
-### HALO Lab (Human-Aligned Language Optimization Lab)
+### HALO Lab (Human-Aligned Language Optimization Lab) -->
 
 
-PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), [Jinghui Zhang](https://znull-1220.github.io/#research)
+<!-- PhD students: [Zirui Song](https://ziruisongbest.github.io/), [Lang Gao](https://heartyhaven.github.io/), [Jinghui Zhang](https://znull-1220.github.io/#research)
 
 Visiting students:  [Akash Ghosh](https://scholar.google.com/citations?user=NWc6Pw8AAAAJ&hl=en), [Puning Yang](https://scholar.google.com/citations?user=_QGfhW8AAAAJ&hl=en), [Fengxian Ji](https://scholar.google.com/citations?user=__L9dy4AAAAJ&hl=zh-CN)
 
@@ -37,7 +37,7 @@ Alumni: [Guoming Li](https://scholar.google.com/citations?user=MkxLbngAAAAJ&hl=z
 - *2023.09*, AI Generated Text: Unlocking Accuracy, Trust, and Progress, Wuhan University
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Renmin University of China
 - *2023.03*, Improving Abstractive Summarization Systems  by Addressing Informativeness, Faithfulness, and Robustness, Shandong University
-<!--- ``IJCAI 2021``, From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information-->
+``IJCAI 2021``, From Standard Summarization to New Tasks and Beyond: Tasks and Methods of Summarization with Manifold Information -->
 
  
 <!-- # ⭐ Services
