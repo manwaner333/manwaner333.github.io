@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiuying Chen"
+title                    : "Qing Li"
 description              : " "
-repository               : "iriscxy/iriscxy.github.io"
+repository               : "manwaner333/manwaner333.github.io"
 google_scholar_stats_use_cdn : true
 
 
@@ -17,14 +17,14 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Xiuying Chen"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Qing Li"
+  avatar           : "images/QingLi.jpg"
   # bio              : "KAUST"
-  location         : "UAE"
+  location         : "Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=COUnAF4AAAAJ&hl=en"
-  email            : "xiuying.chen@mbzuai.ac.ae"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=uPgix8AAAAAJ&gmla=en"
+  email            : "manwaner333@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -33,7 +33,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iriscxy"
+  github           : "manwaner333"
   google_plus      :
   keybase          :
   instagram        :
