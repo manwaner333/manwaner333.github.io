@@ -8,6 +8,9 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Positions"
+    url: "/#-positions"
+
   - title: "Publications"
     url: "/#-recent-publications "
 

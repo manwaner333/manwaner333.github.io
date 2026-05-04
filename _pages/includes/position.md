@@ -1,7 +1,7 @@
 # 🎓 Available Positions
-I am actively looking for highly motivated PhD students, CSC-funded students students, Master students and Visiting students. If you are interested in working with me on generative models, LLM-based agentic system, scientific computing and related interdisciplinary topics, please feel free to contact me at qing.li@rug.nl. Here are some suggestions for preparing the email:
+I am actively looking for highly motivated PhD students, CSC-funded students, Master students and Visiting students. If you are interested in working with me on generative models, LLM-based agentic system, scientific computing and related interdisciplinary topics, please feel free to contact me at qing.li@rug.nl. Here are some suggestions for preparing the email:
 
-- Please use Subject Line as: "PhD/Master/CSC/Visiting Student \\$YourName"
+- Please use Subject Line as: "PhD/Master/CSC/Visiting Student + YourName"
 
 - Please highlight your publications (if applicable), GPA/ranking, TOEFL and IELTS scores, and anything important
 
@@ -17,7 +17,7 @@ I am actively looking for highly motivated PhD students, CSC-funded students stu
 - Extensive opportunities for personal and professional development.
 
 2. Application Link
-- <a href="https://www.rug.nl/research/bernoulli/?lang=en"> PhD position Toward Trustworthy and Adaptive Agentic AI Systems</a>
+- <a href="https://www.academictransfer.com/nl/jobs/360517/phd-position-toward-trustworthy-and-adaptive-agentic-ai-systems/"> PhD position Toward Trustworthy and Adaptive Agentic AI Systems</a>
 - If the link is no longer available, please contact me directly at qing.li@rug.nl
 
 
