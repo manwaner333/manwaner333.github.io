@@ -3,6 +3,12 @@
 
 <!-- % ## 🧑‍🎨 Trustworthiness -->
 
+- `International Conference on Machine Learning (ICML 2026)` [Spurious Rewards Paradox: Mechanistically Understanding How RLVR Activates Memorization Shortcuts in LLMs](), Lecheng Yan, Ruizhe Li, Guanhua Chen, **Qing Li**, Jiahui Geng, Wenxi Li, Longyue Wang, Chenyang Lyu
+
+- `Annual Meeting of the Association for Computational Linguistics (ACL) 2026` [CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval](), Jiahui Geng, Fengyu Cai, Shaobo Cui, **Qing Li**, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Alexander Pretschner, Heinz Koeppl, Fakhri Karray
+
+- `Conference on Computer Vision and Pattern Recognition (CVPR) 2026` [CodeMMR: Bridging Natural Language, Code, and Image for Unified Retrieval](), Jiahui Geng, **Qing Li**, Fengyu Cai, Fakhri Karray
+
 - `International Conference on Computer Vision (ICCV) 2025` [SAUCE: Selective Concept Unlearning in Vision-Language Models with Sparse Autoencoders](https://openaccess.thecvf.com/content/ICCV2025/papers/Geng_SAUCE_Selective_Concept_Unlearning_in_Vision-Language_Models_with_Sparse_Autoencoders_ICCV_2025_paper.pdf), Jiahui Geng, **Qing Li**
 
 - `Annual Meeting of the Association for Computational Linguistics (ACL) 2025` [HD-NDEs: Neural differential equations for hallucination detection in LLMs](https://aclanthology.org/2025.acl-long.309.pdf), **Qing Li**, Jiahui Geng, Zongxiong Chen, Derui Zhu, Yuxia Wang, Congbo Ma, Chenyang Lyu, Fakhri Karray
